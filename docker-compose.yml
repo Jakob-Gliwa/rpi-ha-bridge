@@ -1,5 +1,5 @@
 ha-bridge:
-  image: jritsema/rpi-ha-bridge:3.5.1
+  image: jritsema/rpi-ha-bridge:4.5.6
   volumes:
     - /home/pi/ha-bridge:/habridge/data
   net: host
